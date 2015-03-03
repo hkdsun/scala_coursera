@@ -11,4 +11,5 @@ object Main extends App {
   println(FunSets.toString(map(set,(x:Int) => x*2)))
   println(FunSets.toString(set))
 
+
 }
