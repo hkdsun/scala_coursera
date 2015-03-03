@@ -1,0 +1,3 @@
+import example.Lists._
+console
+exit
