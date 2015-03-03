@@ -3,17 +3,10 @@
   <component name="ScalaSbtSettings">
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
-        <option name="createEmptyContentRootDirectories" value="true" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="modules">
-          <set>
-            <option value="$USER_HOME$/GDrive/PROGRAMMING/scala_coursera/projects/scratchbook" />
-            <option value="$USER_HOME$/GDrive/PROGRAMMING/scala_coursera/projects/scratchbook/project" />
-          </set>
-        </option>
+        <option name="jdk" value="1.7" />
         <option name="resolveClassifiers" value="true" />
         <option name="resolveSbtClassifiers" value="true" />
-        <option name="sbtVersion" value="0.13.5" />
       </SbtProjectSettings>
     </option>
   </component>

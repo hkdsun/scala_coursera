@@ -5,8 +5,16 @@ object rationals{
   val y = new Rational(5,7)
   val z = new Rational(3,2)
 
-  x.sub(y).sub(z)
-  y.add(y)
+  x - y -z
+  y + y
+
+  x max y
+
+  x + y
+  x + x
+
+
+  new Rational(1,2) + (new Rational(2,3))
 
 }
 class Rational(x: Int, y: Int){
@@ -21,18 +29,18 @@ class Rational(x: Int, y: Int){
   def numer = x/g
   def denom = y/g
 
-  def neg = new Rational(-x,y)
+  def unary_- = new Rational(-x,y)
 
-  def less(that: Rational) = this.numer * that.denom < that.numer * this.denom
+  def < (that: Rational) = this.numer * that.denom < that.numer * this.denom
 
-  def max(that: Rational) = if(this.less(that)) that else this
+  def max(that: Rational) = if(this < (that)) that else this
 
-  def add(that: Rational) =
+  def + (that: Rational) =
     new Rational(
     numer * that.denom + that.numer * denom,
     denom * that.denom)
 
-  def sub(that: Rational) = add(that.neg)
+  def - (that: Rational) = this + -that
 
   override def toString = numer.toString + '/' + denom.toString
 }
