@@ -1023,9 +1023,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.7!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.7!apply-macro.jar
-[debug] :: resolution report :: resolve 657ms :: artifacts dl 37ms
+[debug] :: resolution report :: resolve 720ms :: artifacts dl 30ms
 [debug] 	report for progfun-objsets#progfun-objsets$sbt_2.11;1.0.0 default produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/submission/target/resolution-cache/reports/progfun-objsets-progfun-objsets$sbt_2.11-default.xml
-[debug] 	resolve done (657ms resolve - 37ms download)
+[debug] 	resolve done (720ms resolve - 30ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: progfun-objsets#progfun-objsets$sources_2.11;1.0.0
 [debug] 	confs: [default]
@@ -1528,6 +1528,6 @@
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.1!commons-lang3.jar(src)
 [debug] 	[NOT REQUIRED] org.scalaz#scalaz-core_2.10;7.0.2!scalaz-core_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scalaz#scalaz-effect_2.10;7.0.2!scalaz-effect_2.10.jar(src)
-[debug] :: resolution report :: resolve 188ms :: artifacts dl 34ms
+[debug] :: resolution report :: resolve 156ms :: artifacts dl 35ms
 [debug] 	report for progfun-objsets#progfun-objsets$sources_2.11;1.0.0 default produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/submission/target/resolution-cache/reports/progfun-objsets-progfun-objsets$sources_2.11-default.xml
-[debug] 	resolve done (188ms resolve - 34ms download)
+[debug] 	resolve done (156ms resolve - 35ms download)

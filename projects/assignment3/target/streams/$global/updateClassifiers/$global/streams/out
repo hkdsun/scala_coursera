@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 [compile]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scala-library;2.11.5 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32834586
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19747c42
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.5
 [debug] 	found org.scala-lang#scala-library;2.11.5 in sbt-chain
 [debug] 	[2.11.5] org.scala-lang#scala-library;2.11.5
@@ -15,7 +15,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scala-library;2.11.5 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scalacheck#scalacheck_2.11;1.12.1 [compile->default(compile)]
 [info] Resolving org.scalacheck#scalacheck_2.11;1.12.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76a0f6a4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c3d434c
 [debug] sbt-chain: module revision found in cache: org.scalacheck#scalacheck_2.11;1.12.1
 [debug] 	found org.scalacheck#scalacheck_2.11;1.12.1 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scalacheck#scalacheck_2.11;1.12.1 [compile->runtime]
@@ -23,7 +23,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scalacheck#scalacheck_2.11;1.12.1 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1faa3004
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15732ca7
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [compile->runtime]
@@ -31,7 +31,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-sbt#test-interface;1.0 [compile->default(compile)]
 [info] Resolving org.scala-sbt#test-interface;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9a9ce17
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d6e7b47
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
 [debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-sbt#test-interface;1.0 [compile->runtime]
@@ -39,7 +39,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-sbt#test-interface;1.0 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.netflix.rxjava#rxjava-scala;0.15.0 [compile->default(compile)]
 [info] Resolving com.netflix.rxjava#rxjava-scala;0.15.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14ac9b6b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f8aa3be
 [debug] sbt-chain: module revision found in cache: com.netflix.rxjava#rxjava-scala;0.15.0
 [debug] 	found com.netflix.rxjava#rxjava-scala;0.15.0 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.netflix.rxjava#rxjava-scala;0.15.0 [compile->runtime]
@@ -47,7 +47,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.netflix.rxjava#rxjava-scala;0.15.0 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.netflix.rxjava#rxjava-core;0.15.0 [compile->default(compile)]
 [info] Resolving com.netflix.rxjava#rxjava-core;0.15.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@205191be
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c1fcf96
 [debug] sbt-chain: module revision found in cache: com.netflix.rxjava#rxjava-core;0.15.0
 [debug] 	found com.netflix.rxjava#rxjava-core;0.15.0 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.netflix.rxjava#rxjava-core;0.15.0 [compile->runtime]
@@ -55,7 +55,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.netflix.rxjava#rxjava-core;0.15.0 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-native_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-native_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30693b6f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b0e4698
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-native_2.11;3.2.11
 [debug] 	found org.json4s#json4s-native_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-native_2.11;3.2.11 [compile->runtime]
@@ -63,7 +63,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-native_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-core_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52b39ca2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3991c3c0
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.11;3.2.11
 [debug] 	found org.json4s#json4s-core_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-core_2.11;3.2.11 [compile->runtime]
@@ -71,7 +71,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-core_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70b78927
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a71cac0
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.11;3.2.11
 [debug] 	found org.json4s#json4s-ast_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->runtime]
@@ -79,7 +79,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48cd8468
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d333fd
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->runtime]
@@ -87,7 +87,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scalap;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a8ece25
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49cbb043
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.11.0
 [debug] 	found org.scala-lang#scalap;2.11.0 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scalap;2.11.0 [compile->runtime]
@@ -95,7 +95,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scalap;2.11.0 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scala-compiler;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d83c031
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39657ce6
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.0
 [debug] 	found org.scala-lang#scala-compiler;2.11.0 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scala-compiler;2.11.0 [compile->runtime]
@@ -103,7 +103,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scala-compiler;2.11.0 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6253e3f8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20cd25f9
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime]
@@ -111,7 +111,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-swing_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-swing_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a025ea4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74cce41
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-swing_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-swing_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-swing_2.11;1.0.1 [compile->runtime]
@@ -119,7 +119,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-swing_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->net.databinder.dispatch#dispatch-core_2.11;0.11.0 [compile->default(compile)]
 [info] Resolving net.databinder.dispatch#dispatch-core_2.11;0.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d55e29c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25a06318
 [debug] sbt-chain: module revision found in cache: net.databinder.dispatch#dispatch-core_2.11;0.11.0
 [debug] 	found net.databinder.dispatch#dispatch-core_2.11;0.11.0 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->net.databinder.dispatch#dispatch-core_2.11;0.11.0 [compile->runtime]
@@ -127,7 +127,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->net.databinder.dispatch#dispatch-core_2.11;0.11.0 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.ning#async-http-client;1.7.16 [compile->default(compile)]
 [info] Resolving com.ning#async-http-client;1.7.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dd32ec6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@482963d
 [debug] sbt-chain: module revision found in cache: com.ning#async-http-client;1.7.16
 [debug] 	found com.ning#async-http-client;1.7.16 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.ning#async-http-client;1.7.16 [compile->runtime]
@@ -135,7 +135,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.ning#async-http-client;1.7.16 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->io.netty#netty;3.6.3.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.6.3.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7346889f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44b9d37b
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.6.3.Final
 [debug] 	found io.netty#netty;3.6.3.Final in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->io.netty#netty;3.6.3.Final [compile->runtime]
@@ -143,7 +143,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->io.netty#netty;3.6.3.Final [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scala-reflect;2.11.5 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c658e0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58e65a6f
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.5
 [debug] 	found org.scala-lang#scala-reflect;2.11.5 in sbt-chain
 [debug] 	[2.11.5] org.scala-lang#scala-reflect;2.11.5
@@ -152,7 +152,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scala-reflect;2.11.5 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.slf4j#slf4j-api;1.7.5 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@dc69f05
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ca4b6f2
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.5
 [debug] 	found org.slf4j#slf4j-api;1.7.5 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.slf4j#slf4j-api;1.7.5 [compile->runtime]
@@ -160,7 +160,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.slf4j#slf4j-api;1.7.5 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.slf4j#slf4j-simple;1.7.5 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-simple;1.7.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6210d0ba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3227744
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-simple;1.7.5
 [debug] 	found org.slf4j#slf4j-simple;1.7.5 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.slf4j#slf4j-simple;1.7.5 [compile->runtime]
@@ -168,7 +168,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.slf4j#slf4j-simple;1.7.5 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.squareup.retrofit#retrofit;1.0.0 [compile->default(compile)]
 [info] Resolving com.squareup.retrofit#retrofit;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78ee74ff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@218ad373
 [debug] sbt-chain: module revision found in cache: com.squareup.retrofit#retrofit;1.0.0
 [debug] 	found com.squareup.retrofit#retrofit;1.0.0 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.squareup.retrofit#retrofit;1.0.0 [compile->runtime]
@@ -176,7 +176,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.squareup.retrofit#retrofit;1.0.0 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.google.code.gson#gson;2.2.3 [compile->default(compile)]
 [info] Resolving com.google.code.gson#gson;2.2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7286ef17
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ec9cb66
 [debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.2.3
 [debug] 	found com.google.code.gson#gson;2.2.3 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.google.code.gson#gson;2.2.3 [compile->runtime]
@@ -184,7 +184,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.google.code.gson#gson;2.2.3 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-async_2.11;0.9.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-async_2.11;0.9.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39d70b1c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e408d1
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-async_2.11;0.9.2
 [debug] 	found org.scala-lang.modules#scala-async_2.11;0.9.2 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-async_2.11;0.9.2 [compile->runtime]
@@ -192,7 +192,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-async_2.11;0.9.2 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe.akka#akka-actor_2.11;2.3.9 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39306b65
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b014b5
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.9
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.9 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe.akka#akka-actor_2.11;2.3.9 [compile->runtime]
@@ -200,7 +200,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe.akka#akka-actor_2.11;2.3.9 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@611bd5a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@782942d0
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe#config;1.2.1 [compile->runtime]
@@ -208,7 +208,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe.akka#akka-testkit_2.11;2.3.9 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-testkit_2.11;2.3.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f587b1a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2320b007
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.11;2.3.9
 [debug] 	found com.typesafe.akka#akka-testkit_2.11;2.3.9 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe.akka#akka-testkit_2.11;2.3.9 [compile->runtime]
@@ -216,7 +216,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.typesafe.akka#akka-testkit_2.11;2.3.9 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.storm-enroute#scalameter-core_2.11;0.6 [compile->default(compile)]
 [info] Resolving com.storm-enroute#scalameter-core_2.11;0.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e562fc9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a610e20
 [debug] sbt-chain: module revision found in cache: com.storm-enroute#scalameter-core_2.11;0.6
 [debug] 	found com.storm-enroute#scalameter-core_2.11;0.6 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.storm-enroute#scalameter-core_2.11;0.6 [compile->runtime]
@@ -224,7 +224,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.storm-enroute#scalameter-core_2.11;0.6 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.apache.commons#commons-math3;3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a562541
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6906b1ac
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.2
 [debug] 	found org.apache.commons#commons-math3;3.2 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.apache.commons#commons-math3;3.2 [compile->runtime]
@@ -232,7 +232,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.apache.commons#commons-math3;3.2 [compile->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->default(compile)]
 [info] Resolving com.github.scala-blitz#scala-blitz_2.11;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@205196d9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cfb1ce0
 [debug] sbt-chain: module revision found in cache: com.github.scala-blitz#scala-blitz_2.11;1.1
 [debug] 	found com.github.scala-blitz#scala-blitz_2.11;1.1 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->runtime]
@@ -817,7 +817,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@efc735
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@193f239e
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.4
 [debug] 	found org.scalatest#scalatest_2.11;2.2.4 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scalatest#scalatest_2.11;2.2.4 [test->runtime]
@@ -825,7 +825,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scalatest#scalatest_2.11;2.2.4 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cf44a7a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@465f7da0
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime]
@@ -833,7 +833,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->junit#junit;4.10 [test->default(compile)]
 [info] Resolving junit#junit;4.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a8ea010
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21bc1c8c
 [debug] sbt-chain: module revision found in cache: junit#junit;4.10
 [debug] 	found junit#junit;4.10 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->junit#junit;4.10 [test->runtime]
@@ -841,7 +841,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->junit#junit;4.10 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.hamcrest#hamcrest-core;1.1 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f11c4d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1547a765
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.1
 [debug] 	found org.hamcrest#hamcrest-core;1.1 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.hamcrest#hamcrest-core;1.1 [test->runtime]
@@ -849,7 +849,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.hamcrest#hamcrest-core;1.1 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.storm-enroute#scalameter_2.11;0.6 [test->default(compile)]
 [info] Resolving com.storm-enroute#scalameter_2.11;0.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63089797
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ffda4b
 [debug] sbt-chain: module revision found in cache: com.storm-enroute#scalameter_2.11;0.6
 [debug] 	found com.storm-enroute#scalameter_2.11;0.6 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.storm-enroute#scalameter_2.11;0.6 [test->runtime]
@@ -857,7 +857,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.storm-enroute#scalameter_2.11;0.6 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->default(compile)]
 [info] Resolving com.github.wookietreiber#scala-chart_2.11;0.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60af523f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@764e333a
 [debug] sbt-chain: module revision found in cache: com.github.wookietreiber#scala-chart_2.11;0.4.2
 [debug] 	found com.github.wookietreiber#scala-chart_2.11;0.4.2 in sbt-chain
 [debug] 	[0.4.2] com.github.wookietreiber#scala-chart_2.11;0.4.2
@@ -866,7 +866,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.jfree#jfreechart;1.0.17 [test->default(compile)]
 [info] Resolving org.jfree#jfreechart;1.0.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b769348
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e4a5cbd
 [debug] sbt-chain: module revision found in cache: org.jfree#jfreechart;1.0.17
 [debug] 	found org.jfree#jfreechart;1.0.17 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.jfree#jfreechart;1.0.17 [test->runtime]
@@ -874,7 +874,7 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.jfree#jfreechart;1.0.17 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.jfree#jcommon;1.0.21 [test->default(compile)]
 [info] Resolving org.jfree#jcommon;1.0.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6648ff7e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@243446f2
 [debug] sbt-chain: module revision found in cache: org.jfree#jcommon;1.0.21
 [debug] 	found org.jfree#jcommon;1.0.21 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.jfree#jcommon;1.0.21 [test->runtime]
@@ -882,20 +882,12 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.jfree#jcommon;1.0.21 [test->master]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test->default(compile)]
 [info] Resolving xml-apis#xml-apis;1.3.04 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a185ffc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f02e79d
 [debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.3.04
 [debug] 	found xml-apis#xml-apis;1.3.04 in sbt-chain
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test->runtime]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test->compile]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test->master]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test->default(compile)]
-[info] Resolving org.scala-tools.testing#test-interface;0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54898913
-[debug] sbt-chain: module revision found in cache: org.scala-tools.testing#test-interface;0.5
-[debug] 	found org.scala-tools.testing#test-interface;0.5 in sbt-chain
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test->runtime]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test->compile]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test->master]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 [provided]
 [debug] resolving dependencies for configuration 'optional'
@@ -1877,10 +1869,6 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test->runtime]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test->compile]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test->master]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test->default(compile)]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test->runtime]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test->compile]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test->master]
 [debug] == resolving dependencies for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 [optional]
 [debug] == resolving dependencies for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 [provided]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-lang#scala-library;2.11.5 [test-internal->default(compile)]
@@ -2031,10 +2019,6 @@
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test-internal->runtime]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test-internal->compile]
 [debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->xml-apis#xml-apis;1.3.04 [test-internal->master]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test-internal->default(compile)]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test-internal->runtime]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test-internal->compile]
-[debug] == resolving dependencies progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0->org.scala-tools.testing#test-interface;0.5 [test-internal->master]
 [debug] resolving dependencies for configuration 'plugin'
 [debug] == resolving dependencies for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 [plugin]
 [debug] resolving dependencies for configuration 'sources'
@@ -2091,604 +2075,115 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar(doc)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scalacheck/scalacheck_2.11/1.12.1/docs/scalacheck_2.11-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scalacheck/scalacheck_2.11/1.12.1/srcs/scalacheck_2.11-sources.jar
+[debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.11;1.12.1!scalacheck_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.11;1.12.1!scalacheck_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.11;1.12.1!scalacheck_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scalacheck#scalacheck_2.11;1.12.1!scalacheck_2.11.jar(doc) (736ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1-sources.jar
-[info] 	[SUCCESSFUL ] org.scalacheck#scalacheck_2.11;1.12.1!scalacheck_2.11.jar(src) (421ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.2/docs/scala-parser-combinators_2.11-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.2/jars/scala-parser-combinators_2.11.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.2/srcs/scala-parser-combinators_2.11-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(doc) (729ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar (574ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(src) (432ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-sbt/test-interface/1.0/docs/test-interface-javadoc.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scala-sbt#test-interface;1.0!test-interface.jar(doc) (388ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.netflix.rxjava/rxjava-scala/0.15.0/docs/rxjava-scala-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.netflix.rxjava/rxjava-scala/0.15.0/srcs/rxjava-scala-sources.jar
+[debug] 	[NOT REQUIRED] com.netflix.rxjava#rxjava-scala;0.15.0!rxjava-scala.jar(doc)
+[debug] 	[NOT REQUIRED] com.netflix.rxjava#rxjava-scala;0.15.0!rxjava-scala.jar(src)
 [debug] 	[NOT REQUIRED] com.netflix.rxjava#rxjava-scala;0.15.0!rxjava-scala.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-javadoc.jar
-[info] 	[SUCCESSFUL ] com.netflix.rxjava#rxjava-scala;0.15.0!rxjava-scala.jar(doc) (572ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-scala/0.15.0/rxjava-scala-0.15.0-sources.jar
-[info] 	[SUCCESSFUL ] com.netflix.rxjava#rxjava-scala;0.15.0!rxjava-scala.jar(src) (500ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.netflix.rxjava/rxjava-core/0.15.0/docs/rxjava-core-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.netflix.rxjava/rxjava-core/0.15.0/srcs/rxjava-core-sources.jar
+[debug] 	[NOT REQUIRED] com.netflix.rxjava#rxjava-core;0.15.0!rxjava-core.jar(doc)
+[debug] 	[NOT REQUIRED] com.netflix.rxjava#rxjava-core;0.15.0!rxjava-core.jar(src)
 [debug] 	[NOT REQUIRED] com.netflix.rxjava#rxjava-core;0.15.0!rxjava-core.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-javadoc.jar
-[info] 	[SUCCESSFUL ] com.netflix.rxjava#rxjava-core;0.15.0!rxjava-core.jar(doc) (1223ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/netflix/rxjava/rxjava-core/0.15.0/rxjava-core-0.15.0-sources.jar
-[info] 	[SUCCESSFUL ] com.netflix.rxjava#rxjava-core;0.15.0!rxjava-core.jar(src) (670ms)
 [debug] 	[NOT REQUIRED] org.json4s#json4s-native_2.11;3.2.11!json4s-native_2.11.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.json4s/json4s-native_2.11/3.2.11/srcs/json4s-native_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.json4s/json4s-native_2.11/3.2.11/docs/json4s-native_2.11-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-sources.jar
-[info] 	[SUCCESSFUL ] org.json4s#json4s-native_2.11;3.2.11!json4s-native_2.11.jar(src) (389ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-native_2.11/3.2.11/json4s-native_2.11-3.2.11-javadoc.jar
-[info] 	[SUCCESSFUL ] org.json4s#json4s-native_2.11;3.2.11!json4s-native_2.11.jar(doc) (818ms)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-native_2.11;3.2.11!json4s-native_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-native_2.11;3.2.11!json4s-native_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] org.json4s#json4s-core_2.11;3.2.11!json4s-core_2.11.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.json4s/json4s-core_2.11/3.2.11/srcs/json4s-core_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.json4s/json4s-core_2.11/3.2.11/docs/json4s-core_2.11-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-sources.jar
-[info] 	[SUCCESSFUL ] org.json4s#json4s-core_2.11;3.2.11!json4s-core_2.11.jar(src) (391ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-javadoc.jar
-[info] 	[SUCCESSFUL ] org.json4s#json4s-core_2.11;3.2.11!json4s-core_2.11.jar(doc) (987ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.json4s/json4s-ast_2.11/3.2.11/docs/json4s-ast_2.11-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.json4s/json4s-ast_2.11/3.2.11/srcs/json4s-ast_2.11-sources.jar
+[debug] 	[NOT REQUIRED] org.json4s#json4s-core_2.11;3.2.11!json4s-core_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-core_2.11;3.2.11!json4s-core_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-ast_2.11;3.2.11!json4s-ast_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.json4s#json4s-ast_2.11;3.2.11!json4s-ast_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.json4s#json4s-ast_2.11;3.2.11!json4s-ast_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-javadoc.jar
-[info] 	[SUCCESSFUL ] org.json4s#json4s-ast_2.11;3.2.11!json4s-ast_2.11.jar(doc) (819ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-sources.jar
-[info] 	[SUCCESSFUL ] org.json4s#json4s-ast_2.11;3.2.11!json4s-ast_2.11.jar(src) (551ms)
 [debug] 	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar
 [debug] 	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(src)
-[debug] 		tried /home/hormoz/.ivy2/local/com.thoughtworks.paranamer/paranamer/2.6/docs/paranamer-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar
-[info] 	[SUCCESSFUL ] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(doc) (546ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang/scalap/2.11.0/docs/scalap-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang/scalap/2.11.0/srcs/scalap-sources.jar
+[debug] 	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scalap;2.11.0!scalap.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scalap;2.11.0!scalap.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scalap;2.11.0!scalap.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scalap;2.11.0!scalap.jar(doc) (1801ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.0/scalap-2.11.0-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scalap;2.11.0!scalap.jar(src) (433ms)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.0!scala-compiler.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang/scala-compiler/2.11.0/srcs/scala-compiler-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang/scala-compiler/2.11.0/docs/scala-compiler-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.0!scala-compiler.jar(src) (2538ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.0!scala-compiler.jar(doc) (5784ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.1/srcs/scala-xml_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.1/docs/scala-xml_2.11-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.1/jars/scala-xml_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src) (389ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(doc) (672ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar (513ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-swing_2.11/1.0.1/srcs/scala-swing_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-swing_2.11/1.0.1/docs/scala-swing_2.11-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-swing_2.11/1.0.1/jars/scala-swing_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar(src) (423ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar(doc) (813ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar (678ms)
-[debug] 		tried /home/hormoz/.ivy2/local/net.databinder.dispatch/dispatch-core_2.11/0.11.0/srcs/dispatch-core_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/net.databinder.dispatch/dispatch-core_2.11/0.11.0/docs/dispatch-core_2.11-javadoc.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.0!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.0!scala-compiler.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar
+[debug] 	[NOT REQUIRED] net.databinder.dispatch#dispatch-core_2.11;0.11.0!dispatch-core_2.11.jar(src)
+[debug] 	[NOT REQUIRED] net.databinder.dispatch#dispatch-core_2.11;0.11.0!dispatch-core_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] net.databinder.dispatch#dispatch-core_2.11;0.11.0!dispatch-core_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-sources.jar
-[info] 	[SUCCESSFUL ] net.databinder.dispatch#dispatch-core_2.11;0.11.0!dispatch-core_2.11.jar(src) (446ms)
-[debug] 		tried https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.11/0.11.0/dispatch-core_2.11-0.11.0-javadoc.jar
-[info] 	[SUCCESSFUL ] net.databinder.dispatch#dispatch-core_2.11;0.11.0!dispatch-core_2.11.jar(doc) (1127ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.ning/async-http-client/1.7.16/srcs/async-http-client-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.ning/async-http-client/1.7.16/docs/async-http-client-javadoc.jar
+[debug] 	[NOT REQUIRED] com.ning#async-http-client;1.7.16!async-http-client.jar(src)
+[debug] 	[NOT REQUIRED] com.ning#async-http-client;1.7.16!async-http-client.jar(doc)
 [debug] 	[NOT REQUIRED] com.ning#async-http-client;1.7.16!async-http-client.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-sources.jar
-[info] 	[SUCCESSFUL ] com.ning#async-http-client;1.7.16!async-http-client.jar(src) (612ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/ning/async-http-client/1.7.16/async-http-client-1.7.16-javadoc.jar
-[info] 	[SUCCESSFUL ] com.ning#async-http-client;1.7.16!async-http-client.jar(doc) (954ms)
-[debug] 		tried /home/hormoz/.ivy2/local/io.netty/netty/3.6.3.Final/docs/netty-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/io.netty/netty/3.6.3.Final/srcs/netty-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/io.netty/netty/3.6.3.Final/jars/netty.jar
-[debug] 		tried https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-javadoc.jar
-[info] 	[SUCCESSFUL ] io.netty#netty;3.6.3.Final!netty.jar(doc) (3177ms)
-[debug] 		tried https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-sources.jar
-[info] downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final-sources.jar
-[info] 	[SUCCESSFUL ] io.netty#netty;3.6.3.Final!netty.jar(src) (586ms)
-[debug] 		tried https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final.jar
-[info] downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/io/netty/netty/3.6.3.Final/netty-3.6.3.Final.jar
-[info] 	[SUCCESSFUL ] io.netty#netty;3.6.3.Final!netty.jar (637ms)
+[debug] 	[NOT REQUIRED] io.netty#netty;3.6.3.Final!netty.jar(doc)
+[debug] 	[NOT REQUIRED] io.netty#netty;3.6.3.Final!netty.jar(src)
+[debug] 	[NOT REQUIRED] io.netty#netty;3.6.3.Final!netty.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar(doc)
-[debug] 		tried /home/hormoz/.ivy2/local/org.slf4j/slf4j-api/1.7.5/srcs/slf4j-api-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.slf4j/slf4j-api/1.7.5/docs/slf4j-api-javadoc.jar
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.5!slf4j-api.jar(src)
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.5!slf4j-api.jar(doc)
 [debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.5!slf4j-api.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar
-[info] 	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.5!slf4j-api.jar(src) (470ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-javadoc.jar
-[info] 	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.5!slf4j-api.jar(doc) (405ms)
 [debug] 	[NOT REQUIRED] org.slf4j#slf4j-simple;1.7.5!slf4j-simple.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.slf4j/slf4j-simple/1.7.5/srcs/slf4j-simple-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.slf4j/slf4j-simple/1.7.5/docs/slf4j-simple-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
-[info] 	[SUCCESSFUL ] org.slf4j#slf4j-simple;1.7.5!slf4j-simple.jar(src) (536ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-javadoc.jar
-[info] 	[SUCCESSFUL ] org.slf4j#slf4j-simple;1.7.5!slf4j-simple.jar(doc) (522ms)
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-simple;1.7.5!slf4j-simple.jar(src)
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-simple;1.7.5!slf4j-simple.jar(doc)
 [debug] 	[NOT REQUIRED] com.squareup.retrofit#retrofit;1.0.0!retrofit.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.squareup.retrofit/retrofit/1.0.0/docs/retrofit-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.squareup.retrofit/retrofit/1.0.0/srcs/retrofit-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-javadoc.jar
-[info] 	[SUCCESSFUL ] com.squareup.retrofit#retrofit;1.0.0!retrofit.jar(doc) (820ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/squareup/retrofit/retrofit/1.0.0/retrofit-1.0.0-sources.jar
-[info] 	[SUCCESSFUL ] com.squareup.retrofit#retrofit;1.0.0!retrofit.jar(src) (466ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.google.code.gson/gson/2.2.3/srcs/gson-sources.jar
+[debug] 	[NOT REQUIRED] com.squareup.retrofit#retrofit;1.0.0!retrofit.jar(doc)
+[debug] 	[NOT REQUIRED] com.squareup.retrofit#retrofit;1.0.0!retrofit.jar(src)
+[debug] 	[NOT REQUIRED] com.google.code.gson#gson;2.2.3!gson.jar(src)
 [debug] 	[NOT REQUIRED] com.google.code.gson#gson;2.2.3!gson.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.google.code.gson/gson/2.2.3/docs/gson-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-sources.jar
-[info] 	[SUCCESSFUL ] com.google.code.gson#gson;2.2.3!gson.jar(src) (511ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.3/gson-2.2.3-javadoc.jar
-[info] 	[SUCCESSFUL ] com.google.code.gson#gson;2.2.3!gson.jar(doc) (569ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-async_2.11/0.9.2/jars/scala-async_2.11.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-async_2.11/0.9.2/srcs/scala-async_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-async_2.11/0.9.2/docs/scala-async_2.11-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-async_2.11;0.9.2!scala-async_2.11.jar (726ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-async_2.11;0.9.2!scala-async_2.11.jar(src) (438ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-async_2.11/0.9.2/scala-async_2.11-0.9.2-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-async_2.11;0.9.2!scala-async_2.11.jar(doc) (721ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.3.9/srcs/akka-actor_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.3.9/docs/akka-actor_2.11-javadoc.jar
+[debug] 	[NOT REQUIRED] com.google.code.gson#gson;2.2.3!gson.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-async_2.11;0.9.2!scala-async_2.11.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-async_2.11;0.9.2!scala-async_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-async_2.11;0.9.2!scala-async_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.9!akka-actor_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.9!akka-actor_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.9!akka-actor_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.9!akka-actor_2.11.jar(src) (635ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.9/akka-actor_2.11-2.3.9-javadoc.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.9!akka-actor_2.11.jar(doc) (1501ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.typesafe/config/1.2.1/jars/config.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.typesafe/config/1.2.1/docs/config-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.typesafe/config/1.2.1/srcs/config-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar
-[info] 	[SUCCESSFUL ] com.typesafe#config;1.2.1!config.jar (804ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar
-[info] 	[SUCCESSFUL ] com.typesafe#config;1.2.1!config.jar(doc) (848ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe#config;1.2.1!config.jar(src) (550ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.typesafe.akka/akka-testkit_2.11/2.3.9/srcs/akka-testkit_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.typesafe.akka/akka-testkit_2.11/2.3.9/docs/akka-testkit_2.11-javadoc.jar
+[debug] 	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar
+[debug] 	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(doc)
+[debug] 	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.11;2.3.9!akka-testkit_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.11;2.3.9!akka-testkit_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.11;2.3.9!akka-testkit_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.11;2.3.9!akka-testkit_2.11.jar(src) (406ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.9/akka-testkit_2.11-2.3.9-javadoc.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.11;2.3.9!akka-testkit_2.11.jar(doc) (660ms)
 [debug] 	[NOT REQUIRED] com.storm-enroute#scalameter-core_2.11;0.6!scalameter-core_2.11.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.storm-enroute/scalameter-core_2.11/0.6/srcs/scalameter-core_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.storm-enroute/scalameter-core_2.11/0.6/docs/scalameter-core_2.11-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar
-[info] 	[SUCCESSFUL ] com.storm-enroute#scalameter-core_2.11;0.6!scalameter-core_2.11.jar(src) (433ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar
-[info] 	[SUCCESSFUL ] com.storm-enroute#scalameter-core_2.11;0.6!scalameter-core_2.11.jar(doc) (762ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.apache.commons/commons-math3/3.2/srcs/commons-math3-sources.jar
+[debug] 	[NOT REQUIRED] com.storm-enroute#scalameter-core_2.11;0.6!scalameter-core_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.storm-enroute#scalameter-core_2.11;0.6!scalameter-core_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.2!commons-math3.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.2!commons-math3.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.apache.commons/commons-math3/3.2/docs/commons-math3-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.commons#commons-math3;3.2!commons-math3.jar(src) (1398ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar
-[info] 	[SUCCESSFUL ] org.apache.commons#commons-math3;3.2!commons-math3.jar(doc) (1861ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.github.scala-blitz/scala-blitz_2.11/1.1/srcs/scala-blitz_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.github.scala-blitz/scala-blitz_2.11/1.1/docs/scala-blitz_2.11-javadoc.jar
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.2!commons-math3.jar(doc)
+[debug] 	[NOT REQUIRED] com.github.scala-blitz#scala-blitz_2.11;1.1!scala-blitz_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.github.scala-blitz#scala-blitz_2.11;1.1!scala-blitz_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] com.github.scala-blitz#scala-blitz_2.11;1.1!scala-blitz_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar
-[info] 	[SUCCESSFUL ] com.github.scala-blitz#scala-blitz_2.11;1.1!scala-blitz_2.11.jar(src) (535ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar
-[info] 	[SUCCESSFUL ] com.github.scala-blitz#scala-blitz_2.11;1.1!scala-blitz_2.11.jar(doc) (1761ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/srcs/scala-xml_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/jars/scala-xml_2.11.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/docs/scala-xml_2.11-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src) (485ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar (667ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(doc) (788ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/srcs/scalatest_2.11-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/docs/scalatest_2.11-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/jars/scalatest_2.11.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
-[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src) (785ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar
-[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(doc) (2126ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
-[info] downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
-[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar (1838ms)
-[debug] 		tried /home/hormoz/.ivy2/local/junit/junit/4.10/srcs/junit-sources.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar
+[debug] 	[NOT REQUIRED] junit#junit;4.10!junit.jar(src)
 [debug] 	[NOT REQUIRED] junit#junit;4.10!junit.jar
-[debug] 		tried /home/hormoz/.ivy2/local/junit/junit/4.10/docs/junit-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
-[info] downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
-[info] 	[SUCCESSFUL ] junit#junit;4.10!junit.jar(src) (383ms)
-[debug] 		tried https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar
-[info] 	[SUCCESSFUL ] junit#junit;4.10!junit.jar(doc) (452ms)
+[debug] 	[NOT REQUIRED] junit#junit;4.10!junit.jar(doc)
 [debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.hamcrest/hamcrest-core/1.1/docs/hamcrest-core-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.hamcrest/hamcrest-core/1.1/srcs/hamcrest-core-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-javadoc.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar
-[info] 	[SUCCESSFUL ] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(src) (499ms)
-[warn] 	[FAILED     ] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(doc):  (0ms)
-[warn] ==== local: tried
-[warn]   /home/hormoz/.ivy2/local/org.hamcrest/hamcrest-core/1.1/docs/hamcrest-core-javadoc.jar
-[warn] ==== public: tried
-[warn]   https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.storm-enroute/scalameter_2.11/0.6/srcs/scalameter_2.11-sources.jar
+[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(src)
+[debug] 	[NOT REQUIRED] com.storm-enroute#scalameter_2.11;0.6!scalameter_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.storm-enroute#scalameter_2.11;0.6!scalameter_2.11.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.storm-enroute/scalameter_2.11/0.6/docs/scalameter_2.11-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar
-[info] 	[SUCCESSFUL ] com.storm-enroute#scalameter_2.11;0.6!scalameter_2.11.jar(src) (808ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar
-[info] 	[SUCCESSFUL ] com.storm-enroute#scalameter_2.11;0.6!scalameter_2.11.jar(doc) (878ms)
-[debug] 		tried /home/hormoz/.ivy2/local/com.github.wookietreiber/scala-chart_2.11/0.4.2/docs/scala-chart_2.11-javadoc.jar
+[debug] 	[NOT REQUIRED] com.storm-enroute#scalameter_2.11;0.6!scalameter_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] com.github.wookietreiber#scala-chart_2.11;0.4.2!scala-chart_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] com.github.wookietreiber#scala-chart_2.11;0.4.2!scala-chart_2.11.jar
-[debug] 		tried /home/hormoz/.ivy2/local/com.github.wookietreiber/scala-chart_2.11/0.4.2/srcs/scala-chart_2.11-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar
-[info] 	[SUCCESSFUL ] com.github.wookietreiber#scala-chart_2.11;0.4.2!scala-chart_2.11.jar(doc) (1005ms)
-[debug] 		tried https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar
-[info] 	[SUCCESSFUL ] com.github.wookietreiber#scala-chart_2.11;0.4.2!scala-chart_2.11.jar(src) (403ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.jfree/jfreechart/1.0.17/srcs/jfreechart-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.jfree/jfreechart/1.0.17/docs/jfreechart-javadoc.jar
+[debug] 	[NOT REQUIRED] com.github.wookietreiber#scala-chart_2.11;0.4.2!scala-chart_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.jfree#jfreechart;1.0.17!jfreechart.jar(src)
+[debug] 	[NOT REQUIRED] org.jfree#jfreechart;1.0.17!jfreechart.jar(doc)
 [debug] 	[NOT REQUIRED] org.jfree#jfreechart;1.0.17!jfreechart.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar
-[info] 	[SUCCESSFUL ] org.jfree#jfreechart;1.0.17!jfreechart.jar(src) (999ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar
-[info] 	[SUCCESSFUL ] org.jfree#jfreechart;1.0.17!jfreechart.jar(doc) (1528ms)
-[debug] 		tried /home/hormoz/.ivy2/local/org.jfree/jcommon/1.0.21/docs/jcommon-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.jfree/jcommon/1.0.21/srcs/jcommon-sources.jar
+[debug] 	[NOT REQUIRED] org.jfree#jcommon;1.0.21!jcommon.jar(doc)
+[debug] 	[NOT REQUIRED] org.jfree#jcommon;1.0.21!jcommon.jar(src)
 [debug] 	[NOT REQUIRED] org.jfree#jcommon;1.0.21!jcommon.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar
-[info] downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar
-[info] 	[SUCCESSFUL ] org.jfree#jcommon;1.0.21!jcommon.jar(doc) (1055ms)
-[debug] 		tried https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar
-[info] 	[SUCCESSFUL ] org.jfree#jcommon;1.0.21!jcommon.jar(src) (517ms)
 [debug] 	[NOT REQUIRED] xml-apis#xml-apis;1.3.04!xml-apis.jar
-[debug] 		tried /home/hormoz/.ivy2/local/xml-apis/xml-apis/1.3.04/docs/xml-apis-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/xml-apis/xml-apis/1.3.04/srcs/xml-apis-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-javadoc.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-javadoc.jar
-[debug] 		tried https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar
-[info] downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar
-[info] 	[SUCCESSFUL ] xml-apis#xml-apis;1.3.04!xml-apis.jar(src) (527ms)
-[warn] 	[FAILED     ] xml-apis#xml-apis;1.3.04!xml-apis.jar(doc):  (0ms)
-[warn] ==== local: tried
-[warn]   /home/hormoz/.ivy2/local/xml-apis/xml-apis/1.3.04/docs/xml-apis-javadoc.jar
-[warn] ==== public: tried
-[warn]   https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-javadoc.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-tools.testing/test-interface/0.5/srcs/test-interface-sources.jar
-[debug] 		tried /home/hormoz/.ivy2/local/org.scala-tools.testing/test-interface/0.5/docs/test-interface-javadoc.jar
-[debug] 	[NOT REQUIRED] org.scala-tools.testing#test-interface;0.5!test-interface.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-javadoc.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-javadoc.jar
-[warn] 	[FAILED     ] org.scala-tools.testing#test-interface;0.5!test-interface.jar(src):  (0ms)
-[warn] ==== local: tried
-[warn]   /home/hormoz/.ivy2/local/org.scala-tools.testing/test-interface/0.5/srcs/test-interface-sources.jar
-[warn] ==== public: tried
-[warn]   https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-sources.jar
-[warn] 	[FAILED     ] org.scala-tools.testing#test-interface;0.5!test-interface.jar(doc):  (0ms)
-[warn] ==== local: tried
-[warn]   /home/hormoz/.ivy2/local/org.scala-tools.testing/test-interface/0.5/docs/test-interface-javadoc.jar
-[warn] ==== public: tried
-[warn]   https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-javadoc.jar
+[debug] 	[NOT REQUIRED] xml-apis#xml-apis;1.3.04!xml-apis.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(doc)
@@ -2697,16 +2192,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(doc)
 [debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(src)
-[debug] :: resolution report :: resolve 1076ms :: artifacts dl 67232ms
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
-[warn] 	::              FAILED DOWNLOADS            ::
-[warn] 	:: ^ see resolution messages for details  ^ ::
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
-[warn] 	:: org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(doc)
-[warn] 	:: xml-apis#xml-apis;1.3.04!xml-apis.jar(doc)
-[warn] 	:: org.scala-tools.testing#test-interface;0.5!test-interface.jar(src)
-[warn] 	:: org.scala-tools.testing#test-interface;0.5!test-interface.jar(doc)
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] :: resolution report :: resolve 1109ms :: artifacts dl 249ms
 [debug] 	report for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 compile produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/target/resolution-cache/reports/progfun-objsets-progfun-objsets$sources_javadoc_2.11-compile.xml
 [debug] 	report for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 runtime produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/target/resolution-cache/reports/progfun-objsets-progfun-objsets$sources_javadoc_2.11-runtime.xml
 [debug] 	report for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 test produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/target/resolution-cache/reports/progfun-objsets-progfun-objsets$sources_javadoc_2.11-test.xml
@@ -2720,4 +2206,4 @@
 [debug] 	report for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 docs produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/target/resolution-cache/reports/progfun-objsets-progfun-objsets$sources_javadoc_2.11-docs.xml
 [debug] 	report for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 pom produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/target/resolution-cache/reports/progfun-objsets-progfun-objsets$sources_javadoc_2.11-pom.xml
 [debug] 	report for progfun-objsets#progfun-objsets$sources_javadoc_2.11;1.0.0 scala-tool produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/target/resolution-cache/reports/progfun-objsets-progfun-objsets$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (1076ms resolve - 67232ms download)
+[debug] 	resolve done (1109ms resolve - 249ms download)

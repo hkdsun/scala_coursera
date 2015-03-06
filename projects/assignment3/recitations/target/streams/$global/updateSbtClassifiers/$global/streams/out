@@ -1023,9 +1023,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.7!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.7!apply-macro.jar
-[debug] :: resolution report :: resolve 747ms :: artifacts dl 39ms
+[debug] :: resolution report :: resolve 956ms :: artifacts dl 45ms
 [debug] 	report for recitations#recitations$sbt_2.10;0.1-SNAPSHOT default produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/recitations/target/resolution-cache/reports/recitations-recitations$sbt_2.10-default.xml
-[debug] 	resolve done (747ms resolve - 39ms download)
+[debug] 	resolve done (956ms resolve - 45ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: recitations#recitations$sources_2.10;0.1-SNAPSHOT
 [debug] 	confs: [default]
@@ -1528,6 +1528,6 @@
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.1!commons-lang3.jar(src)
 [debug] 	[NOT REQUIRED] org.scalaz#scalaz-core_2.10;7.0.2!scalaz-core_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scalaz#scalaz-effect_2.10;7.0.2!scalaz-effect_2.10.jar(src)
-[debug] :: resolution report :: resolve 214ms :: artifacts dl 38ms
+[debug] :: resolution report :: resolve 165ms :: artifacts dl 52ms
 [debug] 	report for recitations#recitations$sources_2.10;0.1-SNAPSHOT default produced in /home/hormoz/GDrive/PROGRAMMING/scala_coursera/projects/assignment3/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-default.xml
-[debug] 	resolve done (214ms resolve - 38ms download)
+[debug] 	resolve done (165ms resolve - 52ms download)

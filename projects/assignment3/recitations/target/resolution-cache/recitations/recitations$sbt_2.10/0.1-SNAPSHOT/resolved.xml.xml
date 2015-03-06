@@ -4,7 +4,7 @@
 		module="recitations$sbt_2.10"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20150305204927"
+		publication="20150306155055"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
