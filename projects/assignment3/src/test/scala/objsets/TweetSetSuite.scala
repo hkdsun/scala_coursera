@@ -13,9 +13,19 @@ class TweetSetSuite extends FunSuite {
     val set3 = set2.incl(new Tweet("b", "b body", 20))
     val c = new Tweet("c", "c body", 7)
     val d = new Tweet("d", "d body", 9)
+    val e = new Tweet("e", "0 body", 1)
+    val f = new Tweet("f", "1 body", 30)
+    val g = new Tweet("g", "a a", 20)
+    val h = new Tweet("h", "c c", 0)
+    val i = new Tweet("i", "e ebcd", 10)
+    val G = new Empty incl g
+    val H = G incl h
+    val I = H incl i
     val set4c = set3.incl(c)
     val set4d = set3.incl(d)
     val set5 = set4c.incl(d)
+    val set6 = set5.incl(e)
+    val set7 = set6.incl(f)
   }
 
   def asSet(tweets: TweetSet): Set[Tweet] = {
@@ -41,12 +51,33 @@ class TweetSetSuite extends FunSuite {
   test("filter: 20 on set5") {
     new TestSets {
       assert(size(set5.filter(tw => tw.retweets == 20)) === 2)
+      println(set5)
+    }
+  }
+
+  test("filter: >= 7") {
+    new TestSets {
+      assert(size(set7.filter(tw => tw.retweets >= 7)) === 5)
+    }
+  }
+
+  test("filter: contains 0 or 1") {
+    new TestSets {
+      assert(size(set7.filter(tw => tw.text.matches("[0-1].*"))) === 2)
     }
   }
 
   test("union: set4c and set4d") {
     new TestSets {
       assert(size(set4c.union(set4d)) === 4)
+      println(set4c.union(set4d))
+    }
+  }
+
+  test("union: complex test case") {
+    new TestSets {
+      assert(size(I.union(set5)) === 7)
+      println(I.union(set5))
     }
   }
 
