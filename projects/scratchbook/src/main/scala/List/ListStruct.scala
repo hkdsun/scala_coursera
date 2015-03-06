@@ -16,14 +16,3 @@ class Nil[T] extends List[T] {
   def tail: Nothing = throw new NoSuchFieldException
 }
 
-object List{
-  def nth[T](list: List[T], n: Int) = {
-    def loop(root: List[T], i: Int) : T =
-      if(root.isEmpty) throw new IndexOutOfBoundsException("uh oh")
-      else if(n == i) root.head
-      else loop(root.tail,n+1)
-
-    loop(list,0)
-  }
-}
-
