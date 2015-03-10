@@ -48,8 +48,22 @@ class HuffmanSuite extends FunSuite {
   }
 
   test("creatingcodetree"){
-    val chars = string2Chars("hello this is hormoz haha")
-    createCodeTree(chars)
+    val chars = string2Chars("abbbacdefghaaaaaa")
+    assert(createCodeTree(chars) === makeCodeTree(Leaf('a',8),
+      makeCodeTree(
+        makeCodeTree(Leaf('b',3),makeCodeTree(Leaf('c',1),Leaf('d',1))),
+        makeCodeTree(makeCodeTree(Leaf('e',1),Leaf('f',1)),makeCodeTree(Leaf('g',1),Leaf('h',1)))
+      )))
+  }
+
+  test("sample tree and decode") {
+    val chars = string2Chars("bac")
+    assert(decodedSample === chars)
+    assert(decodedSample2 === chars)
+  }
+
+  test("french code"){
+    assert(decodedSecret === string2Chars("huffmanestcool"))
   }
 
   test("decode and encode a very short text should be identity") {
