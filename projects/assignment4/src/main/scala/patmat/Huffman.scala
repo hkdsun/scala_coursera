@@ -262,20 +262,16 @@ object Huffman {
    * on the two parameter code tables.
    */
   def mergeCodeTables(a: CodeTable, b: CodeTable): CodeTable = {
-    val l = a.foldLeft(List[(Char,List[Bit])]()){
-      (ls,p) => {
-        if(ls.nonEmpty && ls.head._1 == p._1)
-          (ls.head._1,ls.head._2:::p._2) :: ls.tail
-        else
-          p :: ls
+    val l = a.sortBy(p => p._1).foldLeft(List[(Char,List[Bit])]()){
+      (z,f) => {
+        if(z.nonEmpty && z.head._1 == f._1)	(z.head._1, z.head._2 ::: f._2) :: z.tail
+		else	f::z
       }
     }
-    val r = a.foldLeft(List[(Char,List[Bit])]()){
-      (ls,p) => {
-        if(ls.nonEmpty && ls.head._1 == p._1)
-          (ls.head._1,ls.head._2:::p._2) :: ls.tail
-        else
-          p :: ls
+    val r = b.sortBy(p => p._1).foldLeft(List[(Char,List[Bit])]()){
+      (z,f) => {
+        if(z.nonEmpty && z.head._1 == f._1)	(z.head._1, z.head._2 ::: f._2) :: z.tail
+		else	f::z
       }
     }
 
