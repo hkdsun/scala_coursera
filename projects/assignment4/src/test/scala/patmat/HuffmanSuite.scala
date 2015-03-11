@@ -61,7 +61,19 @@ class HuffmanSuite extends FunSuite {
   }
 
   test("codetable"){
-    assert(convert(createCodeTree(string2Chars("ABBBACDEFGHAAAAAA".toLowerCase())))===List(('a',List(0)),('d',List(1,0,0,0)),('c',List(1,0,0,1)),('f',List(1,0,1,0))
-    ,('e',List(1,0,1,1)),('h',List(1,1,0,0)),('g',List(1,1,0,1)),('b',List(1,1,1))))
+    val table = convert(createCodeTree(string2Chars("ABBBACDEFGHAAAAAA".toLowerCase())))
+    assert(table.contains('a',List(0)))
+    assert(table.contains('d',List(1,0,0,0)))
+    assert(table.contains('c',List(1,0,0,1)))
+    assert(table.contains('f',List(1,0,1,0)))
+    assert(table.contains('e',List(1,0,1,1)))
+    assert(table.contains('h',List(1,1,0,0)))
+    assert(table.contains('g',List(1,1,0,1)))
+    assert(table.contains('b',List(1,1,1)))
+  }
+
+
+  test("decode and encode french code with quickEncode"){
+    assert(quickEncode(frenchCode)(string2Chars("huffmanestcool")) === secret)
   }
 }

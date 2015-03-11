@@ -265,7 +265,7 @@ object Huffman {
     val l = a.sortBy(p => p._1).foldLeft(List[(Char,List[Bit])]()){
       (z,f) => {
         if(z.nonEmpty && z.head._1 == f._1)	(z.head._1, z.head._2 ::: f._2) :: z.tail
-		else	f::z
+        else	f::z
       }
     }
     val r = b.sortBy(p => p._1).foldLeft(List[(Char,List[Bit])]()){
@@ -284,5 +284,9 @@ object Huffman {
    * To speed up the encoding process, it first converts the code tree to a code table
    * and then uses it to perform the actual encoding.
    */
-  def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = ???
+  def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = {
+    val codetable = convert(tree)
+    val t = text map(char => codetable.find(p=>p._1==char).head._2)
+    t.reduceLeft((z,f)=> z ::: f)
+  }
 }
