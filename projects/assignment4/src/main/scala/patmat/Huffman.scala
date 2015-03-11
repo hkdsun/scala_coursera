@@ -247,14 +247,40 @@ object Huffman {
    * a valid code tree that can be represented as a code table. Using the code tables of the
    * sub-trees, think of how to build the code table for the entire tree.
    */
-  def convert(tree: CodeTree): CodeTable = ???
+  def convert(tree: CodeTree): CodeTable = tree match {
+    case Leaf(_,_) => List()
+    case Fork(l,r,c,w) => {
+      val lc = chars(l) map(f => (f,List(0)))
+      val rc = chars(r) map(f => (f,List(1)))
+      mergeCodeTables(lc ::: convert(l),rc ::: convert(r))
+    }
+  }
 
   /**
    * This function takes two code tables and merges them into one. Depending on how you
    * use it in the `convert` method above, this merge method might also do some transformations
    * on the two parameter code tables.
    */
-  def mergeCodeTables(a: CodeTable, b: CodeTable): CodeTable = ???
+  def mergeCodeTables(a: CodeTable, b: CodeTable): CodeTable = {
+    val l = a.foldLeft(List[(Char,List[Bit])]()){
+      (ls,p) => {
+        if(ls.nonEmpty && ls.head._1 == p._1)
+          (ls.head._1,ls.head._2:::p._2) :: ls.tail
+        else
+          p :: ls
+      }
+    }
+    val r = a.foldLeft(List[(Char,List[Bit])]()){
+      (ls,p) => {
+        if(ls.nonEmpty && ls.head._1 == p._1)
+          (ls.head._1,ls.head._2:::p._2) :: ls.tail
+        else
+          p :: ls
+      }
+    }
+
+    l:::r
+  }
 
   /**
    * This function encodes `text` according to the code tree `tree`.
